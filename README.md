@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riquecn
 - 👀 I’m a graphic designer learning web development
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on design projects. I can help with colors, typography and graphic design concepts!
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web design projects. I can help with colors, typography and graphic design concepts!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a jack of all trades and I bet I can connect with u in some of your likings! Hit me up and lets create something together 😉
 
